@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Tern</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>The Tern</h1>
+    <nav>
+      <a href="#releases">Releases</a>
+      <a href="#gigs">Gigs</a>
+      <a href="#merch">Merchandise</a>
+      <a href="#spotify">Spotify</a>
+      <a href="#instagram">Instagram</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="releases">
+      <h2>Releases</h2>
+      <p>Info about our latest music releases coming soon.</p>
+    </section>
+    <section id="gigs">
+      <h2>Gigs</h2>
+      <p>Upcoming gigs and live shows will be listed here.</p>
+    </section>
+    <section id="merch">
+      <h2>Merchandise</h2>
+      <p>Merch for The Tern will be available soon.</p>
+    </section>
+    <section id="spotify">
+      <h2>Spotify</h2>
+      <p>
+        <a class="external-link" href="https://open.spotify.com/artist/your-artist-id" target="_blank" rel="noopener">Listen to The Tern on Spotify</a>
+      </p>
+    </section>
+    <section id="instagram">
+      <h2>Instagram</h2>
+      <p>
+        <a class="external-link" href="https://instagram.com/your-band-profile" target="_blank" rel="noopener">Follow The Tern on Instagram</a>
+      </p>
+    </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        For bookings or inquiries, email us at
+        <a class="external-link" href="mailto:theternband@email.com">theternband@email.com</a>
+      </p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 The Tern</p>
+  </footer>
+</body>
+</html>
