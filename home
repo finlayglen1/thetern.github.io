@@ -34,20 +34,20 @@
     <section id="spotify">
       <h2>Spotify</h2>
       <p>
-        <a class="external-link" href="https://open.spotify.com/artist/your-artist-id" target="_blank" rel="noopener">Listen to The Tern on Spotify</a>
+        <a class="external-link" href="https://open.spotify.com/artist/0avg11TKJ1wmp2oF50JphD?si=79xerPorSKeqFBqIvVqYbA" target="_blank" rel="noopener">Listen to The Tern on Spotify</a>
       </p>
     </section>
     <section id="instagram">
       <h2>Instagram</h2>
       <p>
-        <a class="external-link" href="https://instagram.com/your-band-profile" target="_blank" rel="noopener">Follow The Tern on Instagram</a>
+        <a class="external-link" href="https://instagram.com/theternmusic" target="_blank" rel="noopener">Follow The Tern on Instagram</a>
       </p>
     </section>
     <section id="contact">
       <h2>Contact</h2>
       <p>
         For bookings or inquiries, email us at
-        <a class="external-link" href="mailto:theternband@email.com">theternband@email.com</a>
+        <a class="external-link" href="mailto:theternmusic@gmail.com">theternmusic@gmail.com</a>
       </p>
     </section>
   </main>
